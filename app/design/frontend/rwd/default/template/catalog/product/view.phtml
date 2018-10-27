@@ -72,7 +72,7 @@
                 <?php echo $this->getChildHtml('alert_urls') ?>
 
                 <?php if ($_product->getShortDescription()):?>
-                    <div class="short-description">
+                    <div class="short_description" style="display:none">
                         <div class="std"><?php echo $_helper->productAttribute($_product, nl2br($_product->getShortDescription()), 'short_description') ?></div>
                     </div>
                 <?php endif;?>
