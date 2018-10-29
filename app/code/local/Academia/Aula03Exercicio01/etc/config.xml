@@ -8,9 +8,9 @@
             </modules>
 
             <blocks>
-                <Academia_Aula03Exercicio01>
+                <academia_aula03exercicio01>
                     <class>Academia_Aula03Exercicio01_Block</class>
-                </Academia_Aula03Exercicio01>
+                </academia_aula03exercicio01>
             </blocks>
         </global>
 
